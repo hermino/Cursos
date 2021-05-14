@@ -1,0 +1,15 @@
+H:\Cursos\ASP.NET Core\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.deps.json
+H:\Cursos\ASP.NET Core\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.dll
+H:\Cursos\ASP.NET Core\GameTOP.Lib\bin\Debug\net5.0\ref\GameTOP.Lib.dll
+H:\Cursos\ASP.NET Core\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.pdb
+H:\Cursos\ASP.NET Core\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Interface.dll
+H:\Cursos\ASP.NET Core\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Interface.pdb
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csprojAssemblyReference.cache
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.AssemblyInfoInputs.cache
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.AssemblyInfo.cs
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.CoreCompileInputs.cache
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.CopyComplete
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.dll
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\ref\GameTOP.Lib.dll
+H:\Cursos\ASP.NET Core\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.pdb
